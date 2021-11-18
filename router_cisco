@@ -1,5 +1,5 @@
 #!/bin/python3
-#---- Script creado por Herr Stiefel
+#---- Script creado por Pavel Butzmann
 #---- Obtencion de comandos en switch mediante python
 
 import getpass
