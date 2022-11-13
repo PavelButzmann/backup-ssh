@@ -17,3 +17,9 @@ pip3 install alive_progress
 pip3 install netmiko
 
 ```
+
+Para el programa "segment_backup_devices.py" se requiere instalar el modulo ipcalc para eso por favor utiliza el comando:
+
+```
+pip3 install ipcalc
+```
