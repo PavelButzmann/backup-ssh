@@ -12,6 +12,7 @@ from netmiko import ConnectHandler
 Las librerias que se mencionan se pueden instalar en la terminal con los siguientes comandos, pero para eso debe de estar habilitada la opcion de pip
 y en caso de ser necesario, se deberan de correr los comandos en siendo usuario root o anteponiendo el comando "sudo"
 ```
+sudo apt install python3-pip
 python3 -m pip install --upgrade pip
 pip3 install alive_progress
 pip3 install netmiko
